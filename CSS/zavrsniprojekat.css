@@ -1,0 +1,92 @@
+h1 {
+	text-align:center;
+	font-family:Verdana;
+	color:#ece8e1;
+	
+}
+
+#h2 {
+	text-align:center;
+	font-family:Verdana;
+	color:#ece8e1;
+}
+
+#sajt {
+	font-family:Verdana;
+	font-size:11px;
+	color:#ece8e1;
+	text-align:center;
+}
+
+#slika {
+	height:0px;
+	width:200px;
+}
+
+#naslov {
+	width:1900px;
+	height:180px;
+	background-color:#0f1722;
+}
+
+#deo1 {
+	width:2000px;
+	height:500px;
+}
+
+p {
+	font-family:Verdana;
+	font-size:15px;
+	margin:0px;
+}
+
+#valorant {
+	width:1900px;
+	height:500px;
+}
+
+#pasus {
+	color:white;
+	margin-left:10px;
+}
+
+#deo2 {
+	width:100%;
+	height: 600px;
+	text-align:center;
+	background-color:#f6465a;
+}
+
+#slika1 {
+	width:60%;
+	height:550px;
+}
+
+.dugme {
+	color:blue;
+	width:15%;
+	margin:10px 0px;
+}
+
+#deo3 {
+	width:100%;
+	height:1000px;
+	background-color:#ece8e1;
+}
+
+#tekst {
+	text-align:center;
+}
+
+#nav {
+	width:100%;
+	height:40px;
+	background-color:black;
+	float:left;
+}
+
+#slika3 {
+	width:700px;
+	height:400px;
+	margin-left:560px;
+}
